@@ -8,6 +8,14 @@ Você agora faz parte da equipe de desenvolvedores da empresa Buyer's Friend, e 
 
 Seguindo o protótipo feito pelo designer da empresa, você deve construir o front end desse sistema com o maximo de fidelidade possível(cores, icones, logos, componentes e funcionalidades).
 
+## Imagens do sistema
+
+### Tela de realizar uma venda
+![](./sale.png)
+
+### Tela de histórico de vendas (Menu visível)
+![](./sales_history.png)
+
 # Instruções
 Você receberá tudo que precisa para realizar o teste, isso inclui os icones usados, logo, protótipo do sistema(FIGMA) e uma api que irá fornecer os dados de produtos da empresa, filiais e os métodos de pagamento.
 
