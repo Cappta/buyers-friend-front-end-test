@@ -74,14 +74,14 @@ O projeto construido deve ser hospedado em um repositório publico do "GITHUB", 
 - Semantica (Uso correto dos elementos html);
 - Uso adequado de seletores CSS para aplicação dos estilos da interface;
 - O sistema deve ser construído usando o framework React;
-- Tratamento de excessão adequados, permitindo que o sistema se recupere dos erros;
+- Tratamento de exceção adequados, permitindo que o sistema se recupere dos erros;
 - Uso adequando dos conceitos de orientação objetos (Caso optar por seguir esse paradigma);
 - Uso adequando dos conceitos de programação funcional (Caso optar por seguir esse paradigma);
 - Usar o banco local do navegador (IndexedDB) para persistir os dados das vendas;
 - O sistema deve possuir validação de dados dos campos do formulário;
 - O sistema deve formatar adequadamente os tipos de dados do formulário (CPF, Cartão, data e etc);
 - O sistema deve consumir os dados providos pela api;
-- O sistema deve armazenar somente o número do cartão "truncado" e o nome do titular do cartão referente aos dados do pagamento do cliente.
+- O sistema deve armazenar somente o número do cartão truncado* e o nome do titular do cartão referente aos dados do pagamento do cliente.
 
 *OBS: Cartão truncado, é o número do cartão onde somente os 4 primeiros dígitos e os 4 ultimos dígitos do cartão ficam vicam visiveis, e os restantes dos números são retirados ou substituidos por "\*".*
 
