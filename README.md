@@ -122,4 +122,4 @@ O projeto construido deve ser hospedado em um repositório publico do "GITHUB", 
 # Considerações finais
 A equipe de tecnologia da Cappta lhe deseja um excelente teste, e saiba que seu case técnico será analisado com todo carinho possível por nossos desenvolvedores, assim que analisado retornaremos a você um feedback sobre seu projeto.
 
-Um abraço e até logo/ ou um bem vindo a Cappta! 🖖
+Um abraço e até logo/ou um bem vindo a Cappta! 🖖
