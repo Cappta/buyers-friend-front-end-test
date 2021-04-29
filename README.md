@@ -73,7 +73,7 @@ O projeto construido deve ser hospedado em um repositório publico do "GITHUB", 
 - Acessibilidade (O sistema deve permitir a navegação somente pelo teclado, sem o uso do mouse)
 - Semantica (Uso correto dos elementos html);
 - Uso adequado de seletores CSS para aplicação dos estilos da interface;
-- O sistema deve ser contruido usando o framework React;
+- O sistema deve ser construído usando o framework React;
 - Tratamento de excessão adequados, permitindo que o sistema se recupere dos erros;
 - Uso adequando dos conceitos de orientação objetos (Caso optar por seguir esse paradigma);
 - Uso adequando dos conceitos de programação funcional (Caso optar por seguir esse paradigma);
