@@ -6,7 +6,7 @@ Esse é um case técnico destinado a desenvolvedores front end, onde o objetivo 
 # Problemática
 Você agora faz parte da equipe de desenvolvedores da empresa Buyer's Friend, e seu primeiro desafio é construir parte de um sistema de gestão de vendas que possibilite com que todas as filiais da empresa consigam realizar uma venda e visualizar o histórico de vendas da empresa.
 
-Seguindo o protótipo feito pelo designer da empresa, você deve construir o front end desse sistema com o maximo de fidelidade possível(cores, icones, logos, componentes e funcionalidades).
+Seguindo o protótipo feito pelo designer da empresa, você deve construir o front end desse sistema com o máximo de fidelidade possível(cores, icones, logos, componentes e funcionalidades).
 
 ## Imagens do sistema
 
