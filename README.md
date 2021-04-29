@@ -83,7 +83,7 @@ O projeto construido deve ser hospedado em um repositório publico do "GITHUB", 
 - O sistema deve consumir os dados providos pela api;
 - O sistema deve armazenar somente o número do cartão truncado* e o nome do titular do cartão referente aos dados do pagamento do cliente.
 
-*OBS: Cartão truncado, é o número do cartão onde somente os 4 primeiros dígitos e os 4 ultimos dígitos do cartão ficam vicam visiveis, e os restantes dos números são retirados ou substituidos por "\*".*
+*OBS: Cartão truncado, é o número do cartão onde somente os 4 primeiros dígitos e os 4 últimos dígitos do cartão ficam visíveis, e o restante dos números são substituídos por um único "\-" ou por vários "\*".*
 
 
 ### Exemplo de uma venda(Persistida no banco local)
