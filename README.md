@@ -25,7 +25,7 @@ O projeto construido deve ser hospedado em um repositório publico do "GITHUB", 
 1 - O usuário deve conseguir fazer uma venda através da tela "Fazer uma venda", onde ele informará os dados do pagamento do cliente (somente é aceito pagamentos através de cartão), os dados do cliente, os produtos que o cliente está comprando e os dados da venda.
 
 ### Dados do pagamento
-- Numero do cartão
+- Número do cartão
 - Titular
 - Data de expiração
 - CVV
@@ -66,8 +66,7 @@ O projeto construido deve ser hospedado em um repositório publico do "GITHUB", 
 - O sistema deve conseguir exibir as vendas realizadas ao usuário quando solicitado;
 - O sistema deve permitir que o usuário realize a pesquisa de uma venda;
 - O sistema deve permitir que o usuário ordene as vendas de forma decrescente e crescente;
-- O sistema deve fornecer os feedbacks adquados para o usuário sobre sua ações realizadas (messagens de sucesso/falha, dados inválidos e etc);
-- O sistema deve armazenar somente o numero do cartão "truncado" e o nome do titular do cartão referente aos dados do pagamento do cliente.
+- O sistema deve fornecer os feedbacks adequados para o usuário sobre suas ações realizadas (messagens de sucesso/falha, dados inválidos e etc).
 
 ## Requisitos não funcionais
 - Acessibilidade (O sistema deve permitir a navegação somente pelo teclado, sem o uso do mouse)
@@ -80,7 +79,10 @@ O projeto construido deve ser hospedado em um repositório publico do "GITHUB", 
 - Usar o banco local do navegador (IndexedDB) para persistir os dados das vendas;
 - O sistema deve possuir validação de dados dos campos do formulário;
 - O sistema deve formatar adequadamente os tipos de dados do formulário (CPF, Cartão, data e etc);
-- O sistema deve consumir os dados providos pela api.
+- O sistema deve consumir os dados providos pela api;
+- O sistema deve armazenar somente o número do cartão "truncado" e o nome do titular do cartão referente aos dados do pagamento do cliente.
+
+*OBS: Cartão truncado, é o número do cartão onde somente os 4 primeiros dígitos e os 4 ultimos dígitos do cartão ficam vicam visiveis, e os restantes dos números são retirados ou substituidos por "\*".*
 
 
 ### Exemplo de uma venda(Persistida no banco local)
@@ -115,3 +117,8 @@ O projeto construido deve ser hospedado em um repositório publico do "GITHUB", 
   }
 ]
 ```
+
+# Considerações finais
+A equipe de tecnologia da Cappta lhe deseja um excelente teste, e saiba que seu case técnico será analisado com todo carinho possível por nossos desenvolvedores, assim que analisado retornaremos a você um feedback sobre seu projeto.
+
+Um abraço e até logo/ ou um bem vindo a Cappta! 🖖
