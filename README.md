@@ -69,6 +69,7 @@ O projeto construido deve ser hospedado em um repositório publico do "GITHUB", 
 - O sistema deve fornecer os feedbacks adequados para o usuário sobre suas ações realizadas (messagens de sucesso/falha, dados inválidos e etc).
 
 ## Requisitos não funcionais
+- Responsividade (O sistema deve se adaptar a dispositivos mobile);
 - Acessibilidade (O sistema deve permitir a navegação somente pelo teclado, sem o uso do mouse)
 - Semantica (Uso correto dos elementos html);
 - Uso adequado de seletores CSS para aplicação dos estilos da interface;
